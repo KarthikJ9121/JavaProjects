@@ -1,0 +1,20 @@
+CMD LINE:
+ .shell.cloud.google.com
+
+
+
+
+WEB:
+ .cloudinary.com
+ .bootstrap
+ .mdn Developers 
+	.Html Entities - https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references
+
+ML:
+ .kaggle
+
+
+OTHERS:
+ .maghoosh
+
+
